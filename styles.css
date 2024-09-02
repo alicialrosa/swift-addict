@@ -1,0 +1,37 @@
+body { 
+    color: rgb(5, 0, 0);
+    background: rgb(216, 20, 79);
+    margin: 0px;
+    font-family: "DM Serif Text", sans-serif;
+}
+
+header {
+    border-bottom: solid 2px rgb(0, 0, 0);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(0, 0, 0);
+}
+
+section {
+    background: rgb(255, 255, 255);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    height: 200px;
+  }
+
+div {
+    margin-right: 20px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+  }
